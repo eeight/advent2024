@@ -1,0 +1,14 @@
+[package]
+name = "advent2024"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "1"
+src = "src/1.rs"
+
+[[bin]]
+name = "1a"
+src = "src/1a.rs"
