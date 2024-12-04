@@ -28,3 +28,11 @@ src = "src/3.rs"
 [[bin]]
 name = "3a"
 src = "src/3a.rs"
+
+[[bin]]
+name = "4"
+src = "src/4.rs"
+
+[[bin]]
+name = "4a"
+src = "src/4a.rs"
