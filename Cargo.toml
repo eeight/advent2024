@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+itertools = "0.13.0"
 
 [[bin]]
 name = "1"
@@ -68,3 +69,11 @@ src = "src/8.rs"
 [[bin]]
 name = "8a"
 src = "src/8a.rs"
+
+[[bin]]
+name = "9"
+src = "src/9.rs"
+
+[[bin]]
+name = "9a"
+src = "src/9a.rs"
