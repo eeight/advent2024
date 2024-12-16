@@ -5,6 +5,7 @@ edition = "2021"
 
 [dependencies]
 itertools = "0.13.0"
+pathfinding = "4.12.0"
 
 [[bin]]
 name = "1"
@@ -125,3 +126,11 @@ src = "src/15.rs"
 [[bin]]
 name = "15a"
 src = "src/15a.rs"
+
+[[bin]]
+name = "16"
+src = "src/16.rs"
+
+[[bin]]
+name = "16a"
+src = "src/16a.rs"
