@@ -150,3 +150,19 @@ src = "src/18.rs"
 [[bin]]
 name = "18a"
 src = "src/18a.rs"
+
+[[bin]]
+name = "19"
+src = "src/19.rs"
+
+[[bin]]
+name = "19a"
+src = "src/19a.rs"
+
+[[bin]]
+name = "20"
+src = "src/20.rs"
+
+[[bin]]
+name = "20a"
+src = "src/20a.rs"
