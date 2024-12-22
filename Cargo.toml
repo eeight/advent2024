@@ -174,3 +174,11 @@ src = "src/21.rs"
 [[bin]]
 name = "21a"
 src = "src/21a.rs"
+
+[[bin]]
+name = "22"
+src = "src/22.rs"
+
+[[bin]]
+name = "22a"
+src = "src/22a.rs"
